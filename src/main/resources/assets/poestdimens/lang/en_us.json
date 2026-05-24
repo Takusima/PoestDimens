@@ -1,0 +1,13 @@
+{
+  "itemGroup.poestdimens": "Example Mod Tab",
+  "block.poestdimens.example_block": "Example Block",
+  "item.poestdimens.example_item": "Example Item",
+
+  "poestdimens.configuration.title": "PoСEst Dimens Configs",
+  "poestdimens.configuration.section.poestdimens.common.toml": "PoСEst Dimens Configs",
+  "poestdimens.configuration.section.poestdimens.common.toml.title": "PoСEst Dimens Configs",
+  "poestdimens.configuration.items": "Item List",
+  "poestdimens.configuration.logDirtBlock": "Log Dirt Block",
+  "poestdimens.configuration.magicNumberIntroduction": "Magic Number Text",
+  "poestdimens.configuration.magicNumber": "Magic Number"
+}

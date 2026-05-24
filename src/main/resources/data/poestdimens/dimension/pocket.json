@@ -1,0 +1,16 @@
+{
+  "type": "poestdimens:pocket_type",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "layers": [
+        { "block": "minecraft:bedrock", "height": 1 },
+        { "block": "minecraft:stone", "height": 3 },
+        { "block": "minecraft:dirt", "height": 2 },
+        { "block": "minecraft:grass_block", "height": 1 }
+      ],
+      "biome": "minecraft:the_void",
+      "structure_overrides": []
+    }
+  }
+}
